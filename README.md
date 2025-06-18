@@ -91,6 +91,9 @@ TheCopier/
 
 Click **Stop Typing** to cancel mid-run.
 
+
+https://github.com/user-attachments/assets/272253ef-a9aa-4604-ad95-4b17800a0840
+
 ---
 
 ## 🛠 License
