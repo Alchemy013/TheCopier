@@ -27,13 +27,13 @@
 git clone https://github.com/yourusername/TheCopier.git
 cd TheCopier
 pip install -r requirements.txt
-python main.py
+python mark3.py
 ```
 
 ### 🪟 Build Windows Executable
 
 ```bash
-pyinstaller --onefile --noconsole --icon=rickroll.ico --add-data "rickroll.ico;." main.py
+pyinstaller --onefile --noconsole --icon=rickroll.ico --add-data "rickroll.ico;." mark3.py
 ```
 
 ### 🍎 Build macOS App
