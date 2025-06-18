@@ -95,7 +95,7 @@ Click **Stop Typing** to cancel mid-run.
 
 ## 🛠 License
 
-MIT License © 2024 [Rehyann Saini](https://github.com/rehyannsaini)
+MIT License © 2025 [Rehyann Saini](https://github.com/rehyannsaini)
 
 ---
 
